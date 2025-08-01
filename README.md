@@ -27,4 +27,3 @@
 -  Performs the calculation and displays the result
 -  Continues until user selects "Exit"
 
-15.0 + 7.0 = 22.0
